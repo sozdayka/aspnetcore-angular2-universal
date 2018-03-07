@@ -88,5 +88,17 @@
     "karma-webpack": "^2.0.3",
     "tslint": "^5.7.0",
     "webpack-bundle-analyzer": "^2.9.0"
-  }
+  },
+"keywords": [
+    "aspnetcore",
+    "angular2",
+    "angular2-universal",
+    "angular2universal",
+    "universal",
+    "typescript",
+    "typescript2",
+    "ts2",
+    "webpack",
+    "webpack2"
+  ]
 }
